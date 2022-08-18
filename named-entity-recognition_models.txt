@@ -1,0 +1,5 @@
+Babelscape/wikineural-multilingual-ner
+lhkhiem28/ViNERCoV
+dominguesm/bert-restore-punctuation-ptbr
+MLRS/BERTu-ner
+socialmediaie/bertweet-base_wnut17_ner

@@ -1,0 +1,10 @@
+t5-small
+t5-base
+facebook/bart-large-cnn
+sshleifer/distilbart-cnn-12-6
+SEBIS/code_trans_t5_small_program_synthese_transfer_learning_finetune
+google/pegasus-xsum
+t5-11b
+cahya/t5-base-indonesian-summarization-cased
+t5-large
+philschmid/bart-large-cnn-samsum

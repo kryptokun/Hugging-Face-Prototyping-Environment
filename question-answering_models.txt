@@ -1,0 +1,10 @@
+deepset/roberta-base-squad2
+distilbert-base-cased-distilled-squad
+deepset/minilm-uncased-squad2
+bert-large-uncased-whole-word-masking-finetuned-squad
+deepset/bert-large-uncased-whole-word-masking-squad2
+deepset/roberta-base-squad2-covid
+etalab-ia/camembert-base-squadFR-fquad-piaf
+nyust-eb210/braslab-bert-drcd-384
+deepset/roberta-large-squad2
+deepset/xlm-roberta-base-squad2

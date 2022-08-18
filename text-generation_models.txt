@@ -1,0 +1,10 @@
+gpt2
+distilgpt2
+EleutherAI/gpt-j-6B
+microsoft/DialoGPT-large
+gpt2-medium
+gpt2-large
+gpt2-xl
+xlnet-base-cased
+uer/gpt2-chinese-cluecorpussmall
+imone/pangu_2_6B
